@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Taller-de-Sistemas-Embebidos
-y si flaco
+Este es el mega mega repo
 =======
 # Mi proyecto
 >>>>>>> 3332b3b (Primer commit)
