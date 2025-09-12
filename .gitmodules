@@ -1,3 +1,6 @@
 [submodule "tp0"]
 	path = tp0
 	url = https://github.com/SantangeloEzequiel/tp0.git
+[submodule "tp1"]
+	path = tp1
+	url = https://github.com/RMantaras/tp1.git
